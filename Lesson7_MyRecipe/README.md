@@ -4,16 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(November 19, 2017)
+(Month Day, Year)
 
 ### Student Name:  
-(Steven Ritter)
+(First and Last Name)
 
 ### Project Description:
-(Modify recipe display app using jQuery.)
+(In your own words, briefly describe the assignment.)
 
 ### View Project Online:
-(https://rittersteven.github.io/lesson7_jquery/)
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
